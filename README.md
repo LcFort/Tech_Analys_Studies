@@ -1,2 +1,6 @@
 # Tech_Analys_Studies
-Only me getting to know a little bit more about Technical Analysis in Finance.
+Hello there.
+
+I'm a economics student interested in finance.
+
+Currently, my main goal is to improve my general knowledge of technical analysis in finance.
